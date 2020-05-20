@@ -1,5 +1,4 @@
 import com.Utils.LDBFormat;
-import com.Utils.SignalGroup;
 import com.Utils.Slot;
 import mx.utils.Delegate;
 /*
@@ -43,7 +42,7 @@ class com.fox.fifofilter
 					return;
 				}
 			}
-			this._SlotShowFIFOMessage(text, mode);
+			_root.fifo._SlotShowFIFOMessage(text, mode);
 		}
 		// private arrray m_Connections
 		for (var i in _root.fifo.m_SignalGroup["m_Connections"])
