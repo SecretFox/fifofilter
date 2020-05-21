@@ -6,6 +6,7 @@ Currently filtered messages:
 	* There are no valid targets in range.  
 	* Interrupted!  
 	* Cannot use this ability.  
+	* The target is out of range.  
 These should work with all languages, if not let me know.  
 
 ### Install  

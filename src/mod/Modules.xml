@@ -7,6 +7,5 @@
     sub_depth   = "2"
     variable    = "fifofilter"
     criteria    = "fifofilter &amp;&amp; (guimode &amp; (GUIMODEFLAGS_INPLAY | GUIMODEFLAGS_ENABLEALLGUI))"
-	config_name = "fifofilter_Cfg"
   />
 </Root>
