@@ -21,8 +21,8 @@ class com.fox.fifofilter
 			LDBFormat.LDBGetText(100, 59164832).split(".")[1], // You will need to spend some of this currency before you can earn any more.
 			LDBFormat.LDBGetText(100, 78153876), // There are no valid targets in range.
 			LDBFormat.LDBGetText(100, 255695508), // Interrupted!
-			LDBFormat.LDBGetText(120, 32539732) // Cannot use this ability.
-			
+			LDBFormat.LDBGetText(120, 32539732), // Cannot use this ability.
+			LDBFormat.LDBGetText(100, 142000325) // The target is out of range.
 		]
 	}
 	public function HookSpaghetti():Void
