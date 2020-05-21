@@ -22,7 +22,8 @@ class com.fox.fifofilter
 			LDBFormat.LDBGetText(100, 78153876), // There are no valid targets in range.
 			LDBFormat.LDBGetText(100, 255695508), // Interrupted!
 			LDBFormat.LDBGetText(120, 32539732), // Cannot use this ability.
-			LDBFormat.LDBGetText(100, 142000325) // The target is out of range.
+			LDBFormat.LDBGetText(100, 142000325), // The target is out of range.
+			LDBFormat.LDBGetText(100, 240231588) // You have no line of sight to your target!
 		]
 	}
 	public function HookSpaghetti():Void

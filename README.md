@@ -7,6 +7,7 @@ Currently filtered messages:
 	* Interrupted!  
 	* Cannot use this ability.  
 	* The target is out of range.  
+	* You have no line of sight to your target!  
 These should work with all languages, if not let me know.  
 
 ### Install  
